@@ -62,6 +62,14 @@ export default function Footer() {
    i am Sohaib full stack developer 
 </p>
 
+<p>
+   i am shaharyar full stack developer i am shaharyar full stack developer i am shaharyar full stack developer 
+   i am shaharyar full stack developer i am shaharyar full stack developer i am shaharyar full stack developer 
+   i am shaharyar full stack developer 
+</p>
+
+
+
     </div>
   );
 }

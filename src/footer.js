@@ -57,6 +57,11 @@ export default function Footer() {
           </div>
         </nav>
       </div>
+
+<p>
+   i am Sohaib full stack developer 
+</p>
+
     </div>
   );
 }
